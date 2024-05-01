@@ -6,6 +6,7 @@ I finally just ended up writing my own script to make it a bit easier to manage.
 
 To-do:
 
-- Could handle for other operating systems, currently it's just linux. 
--- For macOS: ~/Library/Caches/huggingface/transformers
--- For Windows: C:\Users\YOUR_USERNAME\AppData\Local\huggingface\transformers
+- Could handle for other operating systems, currently it's just linux.
+For macOS: ~/Library/Caches/huggingface/transformers
+For Windows: C:\Users\YOUR_USERNAME\AppData\Local\huggingface\transformers
+
