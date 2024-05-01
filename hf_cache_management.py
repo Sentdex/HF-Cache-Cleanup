@@ -1,4 +1,3 @@
-  GNU nano 4.8                                                    model_management.py                                                              
 import os
 import shutil
 from transformers import TRANSFORMERS_CACHE
